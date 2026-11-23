@@ -1,5 +1,9 @@
 {
- "assets": {},
+ "assets": {
+  "wood_inlaid_stone_wall": "007de298564f7a514c647377296384e9d4a0afd8",
+  "wood_stone_pathway": "b616bbc2b188624f972d5d839a5833aefd6c8860",
+  "worn_rock_natural_01": "a5e10beb7649207d76c559cc7f3792e334a1c6d2"
+ },
  "license": "https://polyhaven.com/license",
  "site": "https://polyhaven.com",
  "source": "polyhaven",
